@@ -19,5 +19,5 @@
     "url": "https://pwa-testing.nearpicks.com",
     "manifestUrl": "https://raw.githubusercontent.com/anirbanroy2002/ani/master/site.webmanifest",
     "lang": "",
-    "start_url": "/"
+    "start_url": "/?utm_source=homescreen"
 }
