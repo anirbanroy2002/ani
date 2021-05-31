@@ -1,1 +1,38 @@
-{"name":"PWA TEST","short_name":"PT","icons":[{"src":"https://1.bp.blogspot.com/-d0C_O0mrXeY/YLQVHUEqGnI/AAAAAAAAx7k/tJ3KDbg9WKEkRCMqJwrkYUFpziIYR1wGgCLcBGAsYHQ/s0/android-chrome-192x192.png","sizes":"192x192","type":"image/png"},{"src":"https://1.bp.blogspot.com/-WnA3PC1IzNs/YLQVHTwbu_I/AAAAAAAAx7s/2JmVQL0QGekRlnCa4bzjKhWXOQNMXcLWQCLcBGAsYHQ/s16000/android-chrome-512x512.png","sizes":"512x512","type":"image/png"}],"theme_color":"#ffffff","background_color":"#ffffff","display":"standalone"}
+    name: "PWA TESTING",
+    short_name: "PWA TESTING",
+    display: "standalone",
+    prefer_related_applications: false,
+    start_url: "/?utm_source=homescreen",
+    background_color: "#007fa0",
+    theme_color: "#007fa0",
+    icons:[
+      {
+      src: "https://1.bp.blogspot.com/-q6lzBwlaa30/YLQVITllZUI/AAAAAAAAx70/IcaIpmaAXOQ_2Mkf6xu48_ffQ3d_ngSeACLcBGAsYHQ/s16000/favicon-32x32.png",
+      sizes: "32x32",
+      type: "image\/png",
+      density: "0.75",
+      purpose: "any maskable"
+      },
+      {
+      src: "https://1.bp.blogspot.com/-UFEAB7oawGk/YLQVHdXvObI/AAAAAAAAx7o/RP5u34ynTKMXg_ZTViIuX7T6rNs17wdEQCLcBGAsYHQ/s16000/apple-touch-icon.png",
+      sizes: "180x180",
+      type: "image\/png",
+      density: "1.0",
+      purpose: "any maskable"
+      },
+      {
+      src: "https://1.bp.blogspot.com/-d0C_O0mrXeY/YLQVHUEqGnI/AAAAAAAAx7k/tJ3KDbg9WKEkRCMqJwrkYUFpziIYR1wGgCLcBGAsYHQ/s0/android-chrome-192x192.png",
+      sizes: "192x192",
+      type: "image\/png",
+      density: "4.0",
+      purpose: "any maskable"
+      },
+      {
+      src: "https://1.bp.blogspot.com/-WnA3PC1IzNs/YLQVHTwbu_I/AAAAAAAAx7s/2JmVQL0QGekRlnCa4bzjKhWXOQNMXcLWQCLcBGAsYHQ/s16000/android-chrome-512x512.png",
+      sizes: "512x512",
+      type: "image/png",
+      density: "4.0",
+      purpose: "any maskable"
+      },
+    ]
+﻿
