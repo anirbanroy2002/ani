@@ -19,5 +19,5 @@
     "background_color": "#ffffff",
     "display": "standalone",
     "prefer_related_applications": false,
-  "start_url": "/?utm_source=homescreen"
+  "start_url": "https://pwa-testing.nearpicks.com"
 }
