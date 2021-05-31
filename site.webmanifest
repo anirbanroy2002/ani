@@ -1,4 +1,4 @@
-    "name": "PWA TESTING",
+{ "name": "PWA TESTING",
     "short_name": "PWA TESTING",
     "display": "standalone",
     "prefer_related_applications": false,
@@ -34,5 +34,5 @@
       "density": "4.0",
       "purpose": "any maskable"
       },
-    ]
+    ]}
 
