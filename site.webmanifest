@@ -19,5 +19,5 @@
     "background_color": "#ffffff",
     "display": "standalone",
     "url": "https://pwa-testing.nearpicks.com",
-    "start_url": "/"
+    "start_url": "https://pwa-testing.nearpicks.com/"
 }
